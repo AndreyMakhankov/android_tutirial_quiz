@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndreyApplication</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="before_button">Back</string>
+    <string name="question_1">zalyap1</string>
+    <string name="question_2">zalyap2</string>
+    <string name="question_3">zalyap3</string>
+    <string name="question_4">zalyap4</string>
+</resources>
