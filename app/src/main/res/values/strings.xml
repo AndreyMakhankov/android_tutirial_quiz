@@ -10,4 +10,7 @@
     <string name="question_2">zalyap2</string>
     <string name="question_3">zalyap3</string>
     <string name="question_4">zalyap4</string>
+    <string name="warning_text">Are u shure you want do this?</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="jugmen_toast">cheating is wrong</string>
 </resources>
